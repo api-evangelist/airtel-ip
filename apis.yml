@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://sys.airtel.lv/ip2country/1.1.1.1/?full=true
 common:
+  - type: DomainSecurity
+    url: security/airtel-ip-domain-security.yml
   - type: Website
     url: https://sys.airtel.lv/ip2country/1.1.1.1/?full=true
   - type: PublicAPIsListing
