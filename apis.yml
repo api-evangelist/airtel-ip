@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/airtel-ip.
 name: Airtel IP
 description: "IP Geolocation API. Collecting data from multiple sources"
 url: https://sys.airtel.lv/ip2country/1.1.1.1/?full=true
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
